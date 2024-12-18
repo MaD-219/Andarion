@@ -1,11 +1,7 @@
-# Obsidian Notes
+# Andarion
 
-Publish your public notes with MkDocs
+Eine Welt zwischen Licht und Schatten
 
-## Hello World!
+## Notizen
 
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+Hier in diesem Blog, findet ihr die öffentlich zugänglichen Notizen für alle Spieler.
