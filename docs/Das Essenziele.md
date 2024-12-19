@@ -19,6 +19,13 @@ Auch bei Magie ist Anpassung an unsere Spielwelt angebracht, gerne mit Ideen fü
 
 ## Nützliches
 
+### Kalendar
+
+[Online Kalendar](https://app.fantasy-calendar.com/calendars/e805df96f965310bcbaf8094467b6766)
+ 
+[[Kalendarevents]]
+ 
+
 ### Charaktererstellung -/ verwaltung
  
 [Charaktererstellung und -verwaltung für DSA5 - The Dark Aid](https://drive.google.com/file/d/19I2MsQtxiEk7NmkAFM8noCkdmQliEk5V/view?usp=drive_link) 
