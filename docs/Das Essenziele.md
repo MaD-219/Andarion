@@ -20,8 +20,10 @@ Auch bei Magie ist Anpassung an unsere Spielwelt angebracht, gerne mit Ideen fü
 ## Nützliches
 
 ### Charaktererstellung -/ verwaltung
-
-[Charaktererstellung und -verwaltung für DSA5 - Optolith](https://optolith.app/de) 
+ 
+[Charaktererstellung und -verwaltung für DSA5 - The Dark Aid](https://drive.google.com/file/d/19I2MsQtxiEk7NmkAFM8noCkdmQliEk5V/view?usp=drive_link) 
+ 
+[Charaktererstellung und -verwaltung für DSA5 - Optolith](https://optolith.app/de) (scheint momentan nicht zu funktionieren)
  
 [Google Spreadsheet Vorlage](https://docs.google.com/spreadsheets/d/150AZZ81ZyQjkRpw3b11dm-vfYVibMrWe_n-5z4VH7K0/edit?usp=sharing) 
  
