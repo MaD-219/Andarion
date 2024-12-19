@@ -3,8 +3,10 @@
 ### DSA 5. Edition
 
 [Bücher](https://drive.google.com/drive/u/0/folders/154esYqKQl1wrRZN9gjpGEbHr-mTBbEjP)
+ 
 [Regelwiki](https://dsa.ulisses-regelwiki.de/)
-
+ 
+ 
 ##### Notizen
 
 Bei den Büchern handelt es sich um alle Bücher. Eigentlich sollte Grundregelwerk + Regelwiki langen, es sei denn, dass man Magie o.ä. verwenden würde.
@@ -13,11 +15,14 @@ Auch bei Magie ist Anpassung an unsere Spielwelt angebracht, gerne mit Ideen fü
 
 ## Tabletop
 
-[Roll20](https://app.roll20.net/join/18857741/vctNLQ)
+[Roll20](https://app.roll20.net/join/18857741/vctNLQ) 
 
 ## Nützliches
 
 ### Charaktererstellung -/ verwaltung
 
-[Charaktererstellung und -verwaltung für DSA5 - Optolith](https://optolith.app/de)
-[Google Spreadsheet Vorlage](https://docs.google.com/spreadsheets/d/150AZZ81ZyQjkRpw3b11dm-vfYVibMrWe_n-5z4VH7K0/edit?usp=sharing)
+[Charaktererstellung und -verwaltung für DSA5 - Optolith](https://optolith.app/de) 
+ 
+[Google Spreadsheet Vorlage](https://docs.google.com/spreadsheets/d/150AZZ81ZyQjkRpw3b11dm-vfYVibMrWe_n-5z4VH7K0/edit?usp=sharing) 
+ 
+
